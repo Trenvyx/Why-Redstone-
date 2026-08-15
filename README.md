@@ -6,7 +6,7 @@
 
 
 
-![](images/image1.png)
+![](images/image8.png)
 
 
 
@@ -22,7 +22,7 @@ You can begin with a lever and a lamp.
 
 
 
-![](images/image3.png)
+![](images/image1.png)
 
 
 
@@ -38,7 +38,7 @@ You press a button. A redstone signal travels through some dust. A lamp turns on
 
 
 
-![](images/image2.png)
+![](images/image7.png)
 
 
 
@@ -230,7 +230,7 @@ And honestly, that's probably a more enjoyable introduction.
 
 
 
-![](images/image7.jpg)
+![](images/image2.jpg)
 
 
 
@@ -270,7 +270,7 @@ And then someone does.
 
 
 
-![](images/image8.jpg)
+![](images/image3.jpg)
 
 
 
